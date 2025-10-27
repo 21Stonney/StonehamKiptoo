@@ -1,4 +1,3 @@
-# StonehamKiptoo
 # 🧠 Stoneham Kiptoo
 
 ### Cyber Defense Enthusiast | Blue Team Practitioner | Incident Response & Threat Analysis
