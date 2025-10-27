@@ -80,8 +80,8 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StonehamKiptoo&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StonehamKiptoo&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=21Stonney&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21Stonney&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
