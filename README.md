@@ -64,15 +64,23 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 ## 🧰 Skills & Tools Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-005C99?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Windows-222222?style=for-the-badge&logo=windows&logoColor=0078D6"/>
+  <img src="https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/PowerShell-222222?style=for-the-badge&logo=powershell&logoColor=5391FE"/>
+  <img src="https://img.shields.io/badge/Splunk-222222?style=for-the-badge&logo=splunk&logoColor=00E572"/>
+  <img src="https://img.shields.io/badge/Wazuh-222222?style=for-the-badge&logo=wazuh&logoColor=00AEEF"/>
+  <img src="https://img.shields.io/badge/Wireshark-222222?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-222222?style=for-the-badge&logo=elasticstack&logoColor=FEC514"/>
+  <img src="https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-222222?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+  <img src="https://img.shields.io/badge/Suricata-222222?style=for-the-badge&logo=suricata&logoColor=EF3B2D"/>
+  <img src="https://img.shields.io/badge/Azure%20Sentinel-222222?style=for-the-badge&logo=microsoftazure&logoColor=0078D7"/>
+  <img src="https://img.shields.io/badge/Cortex%20XSOAR-222222?style=for-the-badge&logo=paloaltonetworks&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/VS%20Code-222222?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 </p>
+
 
 ---
 
