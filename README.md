@@ -96,6 +96,8 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
   <img src="https://img.shields.io/badge/PowerShell-Active-5391FE?style=flat-square"/>
 </p>
 
+---
+
 ### 💻 GitHub Activity Tracker
 
 <p align="center">
