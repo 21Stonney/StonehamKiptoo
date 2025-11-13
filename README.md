@@ -85,7 +85,7 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 ## 📈 Tool Usage Tracker
 
-### 🧠 Currently Using
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Using:-1E90FF?style=for-the-badge"/>
@@ -96,6 +96,8 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>  
 - <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge"/>  
 - <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge"/>
+- <img src="https://img.shields.io/badge/JupyterNotebook-5391FE?style=for-the-badge"/>
+- <img src="https://img.shields.io/badge/HTML-5391FE?style=for-the-badge"/>
 
 
 ---
