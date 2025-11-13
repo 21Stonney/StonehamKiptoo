@@ -81,6 +81,26 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
   <img src="https://img.shields.io/badge/VS%20Code-222222?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 </p>
 
+---
+
+## 📈 Tool Usage Tracker
+
+### 🧠 Currently Using
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Using:-active-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wazuh-Active-00AEEF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Splunk-Active-00E572?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-Active-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-Active-2496ED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PowerShell-Active-5391FE?style=flat-square"/>
+</p>
+
+### 💻 GitHub Activity Tracker
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Stonney&layout=compact&theme=tokyonight" width="60%"/>
+</p>
 
 ---
 
