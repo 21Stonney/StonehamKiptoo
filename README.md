@@ -89,12 +89,14 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Using:-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wazuh-00AEEF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Splunk-00E572?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge"/>
 </p>
+
+- <img src="https://img.shields.io/badge/Wazuh-00AEEF?style=for-the-badge"/>  
+- <img src="https://img.shields.io/badge/Splunk-00E572?style=for-the-badge"/>  
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>  
+- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge"/>  
+- <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge"/>
+
 
 ---
 
