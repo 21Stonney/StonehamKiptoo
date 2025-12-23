@@ -54,10 +54,10 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 ## 📂 Featured Projects I will be working on
 
-💾 [Log Analysis Lab](#) — Detecting brute-force attempts using Python & sample logs
-🔍 [Wazuh Home SOC](#) — Real-time alerts and dashboards for host monitoring
-🧠 [Threat Intel API Tool](#) — Automating IOC lookups from VirusTotal & AbuseIPDB
-🧾 [Incident Response Simulation](#) — Full documentation of a mock cyber incident
+* 💾 [Log Analysis Lab](#) — Detecting brute-force attempts using Python & sample logs
+* 🔍 [Wazuh Home SOC](#) — Real-time alerts and dashboards for host monitoring
+* 🧠 [Threat Intel API Tool](#) — Automating IOC lookups from VirusTotal & AbuseIPDB
+* 🧾 [Incident Response Simulation](#) — Full documentation of a mock cyber incident
 
 ---
 
