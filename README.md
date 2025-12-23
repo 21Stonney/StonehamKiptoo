@@ -19,16 +19,16 @@ With a background in **Applied Computer Science**, I enjoy analyzing threats, bu
 
 ##  Technical Toolkit
 
-**Core Domains**
+**Core Domains:**
 Incident Response • Log Analysis • Threat Hunting • Malware Analysis • Digital Forensics • SOC Operations
 
-**Security Tools**
+**Security Tools:**
 Wazuh • Splunk • Wireshark • Sysmon • Suricata • VirusTotal • Burp Suite • MITRE ATT&CK • ELK Stack
 
-**Languages & Systems**
+**Languages & Systems:**
 Python • Bash • PowerShell • Linux • Windows • SQL • Cisco Packet Tracer
 
-**Frameworks & Methodologies**
+**Frameworks & Methodologies:**
 NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 ---
