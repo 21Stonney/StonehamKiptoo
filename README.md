@@ -8,7 +8,7 @@ With a background in **Applied Computer Science**, I enjoy analyzing threats, bu
 
 ---
 
-## 🚀 Focus Areas
+##  Focus Areas
 
 * Building **SIEM and log analysis** labs (Wazuh, Splunk)
 * Practicing **incident response** and **malware analysis** through hands-on labs
@@ -17,7 +17,7 @@ With a background in **Applied Computer Science**, I enjoy analyzing threats, bu
 
 ---
 
-## 🧩 Technical Toolkit
+##  Technical Toolkit
 
 **Core Domains**
 Incident Response • Log Analysis • Threat Hunting • Malware Analysis • Digital Forensics • SOC Operations
@@ -35,7 +35,7 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 ## 🎓 Expanding Knowledge
 
-🎯 Currently exploring:
+ Currently exploring:
 
 * Detection engineering with **YARA** and **Sigma** rules
 * **Cloud security** and automated threat response
@@ -52,12 +52,12 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 ---
 
-## 📂 Featured Projects I will be working on
+##  Featured Projects I will be working on
 
-* 💾 [Log Analysis Lab](#) — Detecting brute-force attempts using Python & sample logs
-* 🔍 [Wazuh Home SOC](#) — Real-time alerts and dashboards for host monitoring
-* 🧠 [Threat Intel API Tool](#) — Automating IOC lookups from VirusTotal & AbuseIPDB
-* 🧾 [Incident Response Simulation](#) — Full documentation of a mock cyber incident
+*  [Log Analysis Lab](#) — Detecting brute-force attempts using Python & sample logs
+*  [Wazuh Home SOC](#) — Real-time alerts and dashboards for host monitoring
+*  [Threat Intel API Tool](#) — Automating IOC lookups from VirusTotal & AbuseIPDB
+*  [Incident Response Simulation](#) — Full documentation of a mock cyber incident
 
 ---
 
