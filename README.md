@@ -1,8 +1,8 @@
-# 🧠 Stoneham Kiptoo
+#  Stoneham Kiptoo
 
 ### Cyber Defense Enthusiast | Blue Team Practitioner | Incident Response & Threat Analysis
 
-Hello there 👋
+Hello there
 I'm **Stoneham Kiptoo**, a cybersecurity professional passionate about **defensive security, digital forensics, and incident response**.
 With a background in **Applied Computer Science**, I enjoy analyzing threats, building detection rules, and strengthening systems against modern attacks.
 
@@ -33,7 +33,7 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 ---
 
-## 🎓 Expanding Knowledge
+## Expanding Knowledge
 
  Currently exploring:
 
@@ -43,7 +43,7 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 ---
 
-## 🛠️ Certifications
+## Certifications
 
 * Google – Foundations of Cybersecurity
 * Cisco – Cybersecurity Essentials, Network Security, CCNA: Introduction to Networks
@@ -61,7 +61,7 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 ---
 
-## 🧰 Skills & Tools Badges
+## Skills & Tools Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624"/>
@@ -83,7 +83,7 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 ---
 
-## 📈 Tool Usage Tracker
+## Tool Usage Tracker
 
 
 
@@ -102,7 +102,7 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 ---
 
-### 💻 GitHub Activity Tracker
+### GitHub Activity Tracker
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Stonney&layout=compact&theme=tokyonight" width="60%"/>
@@ -110,7 +110,7 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=21Stonney&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
@@ -119,7 +119,7 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/stonehamkiptoo">
@@ -135,6 +135,6 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
 
 ---
 
-⭐ *“Defending systems is not just about stopping attacks — it’s about understanding them.”*
-Let’s collaborate, learn, and build safer networks together. 🛡️
+ *“Defending systems is not just about stopping attacks — it’s about understanding them.”*
+Let’s collaborate, learn, and build safer networks together.
 
