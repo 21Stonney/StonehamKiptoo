@@ -79,6 +79,8 @@ NIST • OWASP • MITRE ATT&CK • Risk Management Framework (RMF)
   <img src="https://img.shields.io/badge/Cortex%20XSOAR-222222?style=for-the-badge&logo=paloaltonetworks&logoColor=FF6F00"/>
   <img src="https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/VS%20Code-222222?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+ <img src="https://img.shields.io/badge/Go-222222?style=for-the-badge&logo=go&logoColor=00ADD8"/>
+
 </p>
 
 ---
